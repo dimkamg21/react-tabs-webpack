@@ -1,0 +1,6 @@
+[
+  {"id": "dummyList", "title": "Dummy List", "order": 0, "path": "DummyList"},
+  {"id": "dummyChart", "title": "Dummy Chart", "order": 2, "path": "DummyChart"},
+  {"id": "dummyTable", "title": "Dummy Table", "order": 1, "path": "DummyTable"}
+]
+

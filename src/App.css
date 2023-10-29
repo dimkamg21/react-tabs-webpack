@@ -1,0 +1,11 @@
+iframe {
+  display: none;
+}
+
+.tabs {
+  display: block;
+}
+
+.tab-links {
+  margin-bottom: 30px;
+}

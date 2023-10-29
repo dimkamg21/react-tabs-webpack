@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkreact_typescript_webpack=self.webpackChunkreact_typescript_webpack||[]).push([[30],{30:(e,t,c)=>{c.r(t),c.d(t,{default:()=>s});var r=c(893);const s=function(){return(0,r.jsx)("table",{children:(0,r.jsxs)("tr",{children:[(0,r.jsx)("td",{children:"Dummy"}),(0,r.jsx)("td",{children:"Chart"})]})})}}}]);
+//# sourceMappingURL=30.bundle.js.map
